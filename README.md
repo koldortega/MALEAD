@@ -7,7 +7,7 @@
 
 
 
- Published article:  ***"[The impact of architecturally qualified data in deep learning methods for the automatic generation of social housing layouts](http://https://upcommons.upc.edu/handle/2117/398859 "The impact of architecturally qualified data in deep learning methods for the automatic generation of social housing layouts")"***.
+ Published article:  ***"[The impact of architecturally qualified data in deep learning methods for the automatic generation of social housing layouts](https://upcommons.upc.edu/handle/2117/398859 "The impact of architecturally qualified data in deep learning methods for the automatic generation of social housing layouts")"***.
 
 
 Autors: Laura Carrera , Nil Brullet, Guillem Rosselló, Julia Capomaggi , Enrique Romero, Amadeu Santacana, Lluís Ortega
@@ -36,11 +36,11 @@ housing layouts.
 
 
 ### Downloads
-To access the Protos database you can fill out the questionnaire that will appear by clicking the  [link.](http://https://docs.google.com/forms/d/e/1FAIpQLScrl9DoCP2iUBBPyj8OoZ196EI4VhkON42Gu_V9PgtVPVN0dA/viewform?usp=pp_url "link")
+To access the Protos database you can fill out the questionnaire that will appear by clicking the  [link.](https://docs.google.com/forms/d/e/1FAIpQLScrl9DoCP2iUBBPyj8OoZ196EI4VhkON42Gu_V9PgtVPVN0dA/viewform?usp=pp_url "link")
 #### Aknowledgments:
 
-- [Data-driven Interior Plan Generation for Residential Buildings](http://http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html "Data-driven Interior Plan Generation for Residential Buildings")
-- [Graph2plan](http://https://github.com/HanHan55/Graph2plan "Graph2plan")
-- [INCASOL: Institut Català del Sòl](http://https://incasol.gencat.cat/es/inici/index.html "INCASOL: Institut Català del Sòl")
-- [IMPSOL - AMB](http://https://www.amb.cat/s/es/web/habitatge/impsol.html "IMPSOL -Àrea Metropolitana de Barcelona")
-- [Instituto Balear de la Vivienda (IBAVI)](http://https://www.caib.es/webgoib/es/instituto-balear-de-la-vivienda-ibavi- "Instituto Balear de la Vivienda (IBAVI)")
+- [Data-driven Interior Plan Generation for Residential Buildings](http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html "Data-driven Interior Plan Generation for Residential Buildings")
+- [Graph2plan](https://github.com/HanHan55/Graph2plan "Graph2plan")
+- [INCASOL: Institut Català del Sòl](https://incasol.gencat.cat/es/inici/index.html "INCASOL: Institut Català del Sòl")
+- [IMPSOL - AMB](https://www.amb.cat/s/es/web/habitatge/impsol.html "IMPSOL -Àrea Metropolitana de Barcelona")
+- [Instituto Balear de la Vivienda (IBAVI)](https://www.caib.es/webgoib/es/instituto-balear-de-la-vivienda-ibavi- "Instituto Balear de la Vivienda (IBAVI)")
