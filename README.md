@@ -10,7 +10,7 @@
  Published article:  ***"[The impact of architecturally qualified data in deep learning methods for the automatic generation of social housing layouts](https://upcommons.upc.edu/handle/2117/398859 "The impact of architecturally qualified data in deep learning methods for the automatic generation of social housing layouts")"***.
 
 
-Autors: Laura Carrera a, Nil Brullet b, Julia Capomaggi c, Amadeu Santacana b, Ricardo Devesa d, Enrique Romero e, Lluís Ortega b
+Autors: Laura Carrera, Nil Brullet, Julia Capomaggi, Amadeu Santacana, Ricardo Devesa, Enrique Romero, Lluís Ortega
 
 [![](https://ibb.co/0BgVwpY)](https://ibb.co/0BgVwpY)[![](https://i.ibb.co/q0tFZLm/Proto-entrenaments.jpg)](https://i.ibb.co/q0tFZLm/Proto-entrenaments.jpg)
 
