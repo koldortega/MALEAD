@@ -36,7 +36,7 @@ housing layouts.
 
 
 ### Downloads
-To access the Protos database you can fill out the questionnaire that will appear by clicking the  [link.](https://docs.google.com/forms/d/e/1FAIpQLScrl9DoCP2iUBBPyj8OoZ196EI4VhkON42Gu_V9PgtVPVN0dA/viewform?usp=pp_url "link")
+To access PUBLICPLAN database you can fill out the questionnaire that will appear by clicking the  [link.](https://docs.google.com/forms/d/e/1FAIpQLScrl9DoCP2iUBBPyj8OoZ196EI4VhkON42Gu_V9PgtVPVN0dA/viewform?usp=pp_url "link")
 #### Aknowledgments:
 
 - [Data-driven Interior Plan Generation for Residential Buildings](http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html "Data-driven Interior Plan Generation for Residential Buildings")
