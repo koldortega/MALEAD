@@ -38,8 +38,7 @@ housing layouts.
 ### Downloads
 To access PUBLICPLAN database you can fill out the questionnaire that will appear by clicking the  [link.](https://docs.google.com/forms/d/e/1FAIpQLScrl9DoCP2iUBBPyj8OoZ196EI4VhkON42Gu_V9PgtVPVN0dA/viewform?usp=pp_url "link")
 #### Aknowledgments:
-This research was primarily sponsored by a State R + D + I Program Oriented to the Challenges of Society. Ministry of Science and Innovation. Spain. Project reference: AEI/10.13039/501100011033
-
+This research repository is part of the I+D+i project PID2020-116633RB-I00, funded by MCIN/ AEI/10.13039/501100011033
 - [RPLAN and DeepLayout: Data-driven Interior Plan Generation for Residential Buildings](http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html "RPLAN and DeepLayout: Data-driven Interior Plan Generation for Residential Buildings")
 - [Graph2plan](https://github.com/HanHan55/Graph2plan "Graph2plan")
 - [INCASOL: Institut Català del Sòl](https://incasol.gencat.cat/es/inici/index.html "INCASOL: Institut Català del Sòl")
